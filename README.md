@@ -1,6 +1,6 @@
 # Portfolio Site
 
-A personal portfolio site for Alex Chen, a full-stack designer and developer. Built with TanStack Start (React), Tailwind CSS v4, and deployed on Netlify.
+A personal portfolio site for Ilman Ramdhani Rahman, a full-stack designer and developer. Built with TanStack Start (React), Tailwind CSS v4, and deployed on Netlify.
 
 ## Tech Stack
 
