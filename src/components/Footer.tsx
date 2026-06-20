@@ -29,7 +29,7 @@ export function Footer() {
             color: '#fafafa',
           }}
         >
-          Alex<span style={{ color: '#8b5cf6' }}>.</span>
+          Ilman<span style={{ color: '#8b5cf6' }}>.</span>
         </div>
 
         <nav style={{ display: 'flex', gap: '2rem', flexWrap: 'wrap', justifyContent: 'center' }}>
