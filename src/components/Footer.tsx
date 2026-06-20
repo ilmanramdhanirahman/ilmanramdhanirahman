@@ -60,11 +60,11 @@ export function Footer() {
 
         <div style={{ display: 'flex', gap: '1.25rem' }}>
           {[
-            { href: 'https://github.com/alexchen', icon: <Github size={18} />, label: 'GitHub' },
-            { href: 'https://twitter.com/alexchen', icon: <Twitter size={18} />, label: 'Twitter' },
-            { href: 'https://linkedin.com/in/alexchen', icon: <Linkedin size={18} />, label: 'LinkedIn' },
-            { href: 'https://codepen.io/alexchen', icon: <Codepen size={18} />, label: 'CodePen' },
-            { href: 'mailto:hello@alexchen.dev', icon: <Mail size={18} />, label: 'Email' },
+            { href: 'https://github.com/ilmanramdhanirahman', icon: <Github size={18} />, label: 'GitHub' },
+            { href: 'https://twitter.com/@ilmanramdhanirahman', icon: <Twitter size={18} />, label: 'Twitter' },
+            { href: 'https://linkedin.com/in/ilmanramdhanirahman', icon: <Linkedin size={18} />, label: 'LinkedIn' },
+            { href: 'https://codepen.io/ilmanramdhanirahman', icon: <Codepen size={18} />, label: 'CodePen' },
+            { href: 'mailto:ilmanramdhanirahman@yahoo.com', icon: <Mail size={18} />, label: 'Email' },
           ].map(({ href, icon, label }) => (
             <a
               key={label}
@@ -86,7 +86,7 @@ export function Footer() {
         </div>
 
         <p style={{ color: '#52525b', fontSize: '0.8rem' }}>
-          © {new Date().getFullYear()} Alex Chen. Built with TanStack Start & Netlify.
+          © {new Date().getFullYear()} ilmanramdhanirahman. Built with TanStack Start & Netlify.
         </p>
       </div>
     </footer>
