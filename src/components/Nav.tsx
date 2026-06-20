@@ -51,7 +51,7 @@ export function Nav() {
             letterSpacing: '-0.02em',
           }}
         >
-          Alex<span style={{ color: '#8b5cf6' }}>.</span>
+          ilmanramdhanirahman<span style={{ color: '#8b5cf6' }}>.</span>
         </Link>
 
         {/* Desktop links */}
@@ -93,7 +93,7 @@ export function Nav() {
 
         {/* CTA */}
         <a
-          href="mailto:hello@alexchen.dev"
+          href="mailto:ilmanramdhanirahman@yahoo.com"
           style={{
             display: 'none',
             padding: '0.5rem 1.25rem',
