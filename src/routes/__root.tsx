@@ -8,7 +8,7 @@ export const Route = createRootRoute({
     meta: [
       { charSet: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { title: 'Alex Chen — Designer & Developer' },
+      { title: 'Ilman Ramdhani Rahman — Designer & Developer' },
       { name: 'description', content: 'Full-stack designer and developer crafting beautiful, functional digital experiences.' },
       { name: 'theme-color', content: '#09090b' },
     ],
