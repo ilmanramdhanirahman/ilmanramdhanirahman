@@ -90,7 +90,7 @@ function Home() {
               lineHeight: 1.7,
             }}
           >
-            I'm Alex Chen — a full-stack designer and developer based in San Francisco.
+            I'm Ilman Ramdhani Rahman — a full-stack designer and developer based in San Francisco.
             I craft digital experiences that are fast, beautiful, and purposeful.
           </p>
 
