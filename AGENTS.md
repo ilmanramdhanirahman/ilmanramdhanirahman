@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Personal portfolio for Alex Chen. TanStack Start (SSR React) on Netlify. All pages are dark-themed with a consistent editorial design system.
+Personal portfolio for Ilman Ramdhani Rahman. TanStack Start (SSR React) on Netlify. All pages are dark-themed with a consistent editorial design system.
 
 ## Directory Structure
 
